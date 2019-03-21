@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+	<source>
+		<name>知乎每日精选</name>
+		<address>https://www.zhihu.com/rss</address>
+		<description>知乎,可信赖的问答社区,以让每个人高效获得可信赖的解答为使命。</description>
+	</source>	
+	<source>
+		<name>国家地理中文网</name>
+		<address>http://www.nationalgeographic.com.cn/index.php?m=content&c=feed</address>
+		<description>知乎,可信赖的问答社区,以让每个人高效获得可信赖的解答为使命。</description>
+	</source>	
+	<source>
+		<name>钛媒体</name>
+		<address>http://www.tmtpost.com/rss.xml</address>
+		<description>钛媒体是国内首家TMT公司人社群媒体,最有钛度的一人一媒体平台,集信息交流融合、IT技术信息、新媒体于一身的媒体平台。</description>
+	</source>
+	
+</sources>
