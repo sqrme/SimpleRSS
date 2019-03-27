@@ -1,16 +1,17 @@
- [name]知乎每日精选       [address]        https://www.zhihu.com/rss                                         [description]  知乎,可信赖的问答社区,以让每个人高效获得可信赖的解答为使命。                                 
- [name]国家地理中文网     [address]           http://www.nationalgeographic.com.cn/index.php?m=content&c=feed [description] 《华夏地理》杂志与美国国家地理版权合作的科技人文线上平台                                 
+ [name]知乎每日精选       [address]   https://www.zhihu.com/rss                                           [description]  知乎,可信赖的问答社区,以让每个人高效获得可信赖的解答为使命。
+ [name]知乎热榜           [address]   https://rsshub.app/zhihu/hotlist                                           [description]  热门知乎话题讨论精选。
+ [name]国家地理中文网     [address]   http://www.nationalgeographic.com.cn/index.php?m=content&c=feed     [description] 《华夏地理》杂志与美国国家地理版权合作的科技人文线上平台
  [name]钛媒体             [address]   http://www.tmtpost.com/rss.xml                                          [description] 钛媒体是国内首家TMT公司人社群媒体,最有钛度的一人一媒体平台,集信息交流融合、IT技术信息、新媒体于一身的媒体平台。                                 
  [name]爱范儿             [address]   https://ifanr.com/feed                                                  [description] 让未来触手可及。                                 
- [name]品玩               [address] https://www.pingwest.com/feed                                             [description] 有品好玩的科技,一切与你有关!                                 
+ [name]品玩               [address]   https://www.pingwest.com/feed                                             [description] 有品好玩的科技,一切与你有关!
  [name]创业邦             [address]   https://www.cyzone.cn/rss                                               [description] 创业邦致力于成为中国创业者的信息平台和服务平台,帮助中国创业者实现创业梦想。                                 
  [name]梅花网             [address]   https://www.meihua.info/feed                                            [description] 营销者的信息中心官网。                                 
- [name]TechWeb全站精华    [address]            http://www.techweb.com.cn/rss/allnews.xml                      [description] TechWeb专注科技互联网和产品领域报道。已成为科技互联网领域最具人气和影响力的资讯交流互动媒体，是领先的互联网消费互动媒体。                                 
+ [name]TechWeb全站精华    [address]   http://www.techweb.com.cn/rss/allnews.xml                      [description] TechWeb专注科技互联网和产品领域报道。已成为科技互联网领域最具人气和影响力的资讯交流互动媒体，是领先的互联网消费互动媒体。
  [name]雷锋网             [address]   https://www.leiphone.com/feed                                           [description] 读懂智能&未来！                                 
- [name]月光博客           [address]     https://www.williamlong.info/rss.xml                                  [description] 关注互联网和搜索引擎的IT科技博客                                 
- [name]极客公园           [address]     http://www.geekpark.net/rss                                           [description] 聚焦互联网领域,跟踪最新的科技新闻动态,关注极具创新精神的科技产品。                                 
- [name]科学松鼠会         [address]       https://songshuhui.net/feed                                         [description] 剥开科学的坚果，让科学流行起来。                                 
- [name]豆瓣书评           [address]     https://www.douban.com/feed/review/book                               [description] 豆瓣成员投票选出的最佳书评。                                 
- [name]Big Picture        [address]        https://www.bostonglobe.com/rss/bigpicture                         [description] News Stories in Photographs from the Boston Globe.                                 
- [name]Leica中文摄影杂志  [address]              http://www.leica.org.cn/feed.php                             [description] 摄影改变生活，中文独立摄影阅读。                                 
- [name]Mtime时光网        [address]        http://www.mtime.com/rss/news.rss                                  [description] 精彩资讯 Mtime时光网。                                 
+ [name]月光博客           [address]   https://www.williamlong.info/rss.xml                                  [description] 关注互联网和搜索引擎的IT科技博客
+ [name]极客公园           [address]   http://www.geekpark.net/rss                                           [description] 聚焦互联网领域,跟踪最新的科技新闻动态,关注极具创新精神的科技产品。
+ [name]科学松鼠会         [address]   https://songshuhui.net/feed                                         [description] 剥开科学的坚果，让科学流行起来。
+ [name]豆瓣书评           [address]   https://www.douban.com/feed/review/book                               [description] 豆瓣成员投票选出的最佳书评。
+ [name]Big Picture        [address]   https://www.bostonglobe.com/rss/bigpicture                         [description] News Stories in Photographs from the Boston Globe.
+ [name]Leica中文摄影杂志  [address]    http://www.leica.org.cn/feed.php                             [description] 摄影改变生活，中文独立摄影阅读。
+ [name]Mtime时光网        [address]    http://www.mtime.com/rss/news.rss                                  [description] 精彩资讯 Mtime时光网。
