@@ -15,3 +15,6 @@
  [name]Big Picture        [address]   https://www.bostonglobe.com/rss/bigpicture                         [description] News Stories in Photographs from the Boston Globe.
  [name]Leica中文摄影杂志  [address]    http://www.leica.org.cn/feed.php                             [description] 摄影改变生活，中文独立摄影阅读。
  [name]Mtime时光网        [address]    http://www.mtime.com/rss/news.rss                                  [description] 精彩资讯 Mtime时光网。
+ [name]人民网-国内新闻           [address]   http://www.people.com.cn/rss/politics.xml                                           [description]  最权威、最官方的中国国内要闻。
+ [name]什么值得买           [address]   http://feed.smzdm.com                                           [description]  高性价比产品网购推荐，值得您每天来看看。
+ [name]威锋           [address]  https://www.feng.com/rss.xml                                           [description]  人气中文iPhone,iPad,MAC社区。
